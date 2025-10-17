@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Zach
+
+- Data Analytics and Economics Major at Denison University
+- Interested in combining my love of sports with data analysis
+- Reach me at barber_z1@denison.edu or on LinkedIn at www.linkedin.com/in/zachary-barber
 
 <!--
 **Zachary-Barber/Zachary-Barber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
