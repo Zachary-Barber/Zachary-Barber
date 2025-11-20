@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Zach
 
 - Data Analytics and Economics Major at Denison University
-- Searching for roles in any field to leverage my analytical background to inform decision making
+- Searching for roles in any field where I can leverage my analytical background to inform decision making
 - Particularly interested in sports ⚾️ 🏒 ⚽️ 
 - Reach me at barber_z1@denison.edu or on LinkedIn at www.linkedin.com/in/zachary-barber
 
